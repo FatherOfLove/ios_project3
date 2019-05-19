@@ -1,0 +1,2 @@
+/Users/xianghuihuang/Desktop/FishMaster-master/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/xianghuihuang/Desktop/FishMaster-master/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
